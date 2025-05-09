@@ -1,4 +1,4 @@
-## Hi there 👋
+## STRAWPAGE / RENTRY STILL IN PROGRESS
 
 <!--
 **scarved/scarved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
